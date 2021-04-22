@@ -11,6 +11,9 @@ Dedicated to Gioi IELTS mentors. Thank you for your contribution.
 https://us-central1-tello12.cloudfunctions.net
 
 It's a web server so don't expect any UI.
+
   POST /api/check to check hw
+  
   POST /api/webhook/board to create board webhook
+  
   POST /api/webhook/temp to activate temporary function of webhook, currently removeWebhook()
