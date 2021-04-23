@@ -1,5 +1,5 @@
 # tello
-Web server for Gioi IELTS auto student-hw checking
+A simple web server for Gioi IELTS auto student-hw checking
 
 This is a simple firebase functions app that uses an Express app as the /api function. Feel free to look for code reference. Remember that Firebase's Blaze plan 'Pay as you go' still has a limit of resources for free use each month.
 # desc
